@@ -52,4 +52,4 @@ Research project comparing IPv4 and IPv6 network performance using Cisco Packet 
 
 ---
 
-> Committed to continuous learning, practical experience, and professional growth within networking, infrastructure, and cybersecurity.
+> Committed to continuous learning, practical experience, and professional growth within networking, Cloud Technologies, infrastructure, and cybersecurity.
