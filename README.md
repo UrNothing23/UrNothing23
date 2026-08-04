@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi, I'm Zakaria 👋
 
-<!--
-**UrNothing23/UrNothing23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Network & Infrastructure Engineer with a strong interest in networking, cybersecurity, and enterprise IT.
 
-Here are some ideas to get you started:
+Currently building hands-on experience through Cisco networking labs, technical projects, and continuous learning while working towards the Cisco CCNA 200-301 certification.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Current Focus
+
+- Studying for Cisco CCNA 200-301
+- Building a practical networking portfolio
+- Developing switching, routing, and troubleshooting skills
+- Expanding cybersecurity knowledge through hands-on projects
+
+---
+
+## 🛠️ Technologies & Skills
+
+- Cisco IOS
+- Networking Fundamentals
+- VLANs & Switching
+- SSH & Device Security
+- Cisco Packet Tracer
+- Network Troubleshooting
+- Git & GitHub
+- Cybersecurity Fundamentals
+- ISO 27001 Concepts
+
+---
+
+## 📂 Featured Projects
+
+### CCNA Portfolio
+Documenting my CCNA journey through practical labs, configurations, troubleshooting exercises, and technical notes.
+
+### Cybersecurity Dissertation
+Research project focused on cybersecurity risks in educational assessment environments and the application of ISO 27001 security controls.
+
+---
+
+## 🎯 Currently Working Towards
+
+- Cisco CCNA 200-301
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: [Add Link Here]
+
+---
+
+> Continuous learning, practical experience, and professional development.
