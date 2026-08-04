@@ -49,7 +49,7 @@ Research project comparing IPv4 and IPv6 network performance using Cisco Packet 
 
 ## 📫 Connect With Me
 
-- LinkedIn: [https://www.linkedin.com/in/zakaria-ali-950b93253?utm_source=share_via&utm_content=profile&utm_medium=member_ios]
+- LinkedIn: https://www.linkedin.com/in/zakaria-ali-950b93253?utm_source=share_via&utm_content=profile&utm_medium=member_ios
 
 ---
 
