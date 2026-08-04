@@ -1,6 +1,6 @@
 # Hi, I'm Zakaria 👋
 
-**Service Engineer building expertise in Networking, Infrastructure and Cybersecurity.**
+**Service Engineer building expertise in Networking, Infrastructure, Cloud Technologies and Cybersecurity.**
 
 I currently work as a Service Engineer and hold a degree in Cybersecurity. I'm passionate about developing practical networking and infrastructure skills through hands-on labs, technical projects, and continuous learning.
 
@@ -38,6 +38,7 @@ Research project comparing IPv4 and IPv6 network performance using Cisco Packet 
 
 - Network Engineering
 - Infrastructure Technologies
+- Cloud Technologies
 - Enterprise Networking
 - Network Security
 - Cybersecurity
